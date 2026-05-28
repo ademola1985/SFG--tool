@@ -8,7 +8,7 @@
 This interactive web tool is developed as a practical component of a PhD pedagogical model. 
 
 * **Thesis Topic:** Systemic Functional Analysis of Prepositional Circumstances in Selected Newspapers' Crime Reports: Discourse Representation and Implications for ESL Grammar Pedagogy.
-* **Theoretical Foundations:** Systemic Functional Linguistics (SFL) via M.A.K. Halliday's Ideational Metafunction, Critical Discourse Analysis (CDA), and Communicative Language Teaching (CLT).
+* **Theoretical Foundations:** Systemic Functional Linguistics (SFL) via M.A.K. Halliday's Ideational Metafunction, stance theory, and Communicative Language Teaching (CLT).
 * **Target Audience:** Advanced ESL Learners, Applied Linguistics Researchers, and Language Teachers.
 
 ### Research Objective
